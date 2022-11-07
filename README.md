@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find me on <a rel="me" href="https://hachyderm.io/@tman">Mastodon</a>
+
 <!--
 **mthalman/mthalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
