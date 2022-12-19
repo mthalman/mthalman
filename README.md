@@ -5,7 +5,6 @@
 ### Find me at:
 
 [![Mastodon](http://img.shields.io/badge/-Mastodon-white?style=for-the-badge&logo=mastodon&logoColor=6364FF)](https://hachyderm.io/@tman)
-[![Twitter](http://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/matt_tman)
 [![Stack Overflow](http://img.shields.io/badge/-Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/3174766/matt-thalman)
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thalman)
 
