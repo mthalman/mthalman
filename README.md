@@ -1,5 +1,5 @@
 ## Matt Thalman (he/him)
-
+ 
 [![.NET](https://img.shields.io/badge/-principal%20software%20engineer-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dot.net/)[![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=for-the-badge&logo=microsoft)](https://www.microsoft.com)
 
 ### Find me at:
