@@ -2,12 +2,6 @@
 
 [![.NET](https://img.shields.io/badge/-principal%20software%20engineer-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dot.net/)[![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=for-the-badge&logo=microsoft)](https://www.microsoft.com)
 
-### Find me at:
-
-[![Mastodon](http://img.shields.io/badge/-Mastodon-white?style=for-the-badge&logo=mastodon&logoColor=6364FF)](https://hachyderm.io/@tman)
-[![Stack Overflow](http://img.shields.io/badge/-Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/3174766/matt-thalman)
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thalman)
-
 ### Tech I use:
 
 [![Windows](http://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
