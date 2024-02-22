@@ -14,7 +14,7 @@
 
 [![C#](http://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=csharp&logoColor=239120)](https://dotnet.microsoft.com/languages/csharp)
 [![PowerShell](http://img.shields.io/badge/-PowerShell-white?style=for-the-badge&logo=powershell&logoColor=5391FE)](https://learn.microsoft.com/powershell)
-[![Bash](http://img.shields.io/badge/-bash-white?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://learn.microsoft.com/powershell)
+[![Bash](http://img.shields.io/badge/-bash-white?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
 
 [![Azure](http://img.shields.io/badge/-Azure-white?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)](https://azure.microsoft.com)
 [![Docker](http://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com)
