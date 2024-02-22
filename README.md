@@ -14,11 +14,20 @@
 
 [![C#](http://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=csharp&logoColor=239120)](https://dotnet.microsoft.com/languages/csharp)
 [![PowerShell](http://img.shields.io/badge/-PowerShell-white?style=for-the-badge&logo=powershell&logoColor=5391FE)](https://learn.microsoft.com/powershell)
+[![Bash](http://img.shields.io/badge/-bash-white?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://learn.microsoft.com/powershell)
 
 [![Azure](http://img.shields.io/badge/-Azure-white?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)](https://azure.microsoft.com)
 [![Docker](http://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com)
 
 ### Repos I maintain for .NET:
+
+#### Source Build
+
+* [source-build](https://github.com/dotnet/source-build)
+* [source-build-reference-packages](https://github.com/dotnet/source-build-reference-packages)
+* [source-build-externals](https://github.com/dotnet/source-build-externals)
+
+#### Docker
 
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker)
 * [microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker)
