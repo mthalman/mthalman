@@ -9,8 +9,9 @@
 [![Debian](http://img.shields.io/badge/-Debian-white?style=for-the-badge&logo=debian&logoColor=A81D33)](https://www.debian.org)
 [![Ubuntu](http://img.shields.io/badge/-Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com)
 
-[![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-white?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)](https://visualstudio.microsoft.com)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com)
+[![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-white?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)](https://visualstudio.microsoft.com)
+[![Windows Terminal](http://img.shields.io/badge/-Windows%20Terminal-white?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D)](https://learn.microsoft.com/windows/terminal/install)
 
 [![C#](http://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=csharp&logoColor=239120)](https://dotnet.microsoft.com/languages/csharp)
 [![PowerShell](http://img.shields.io/badge/-PowerShell-white?style=for-the-badge&logo=powershell&logoColor=5391FE)](https://learn.microsoft.com/powershell)
