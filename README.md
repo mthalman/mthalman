@@ -25,6 +25,7 @@
 #### Source Build
 
 * [installer](https://github.com/dotnet/installer)
+* [dotnet](https://github.com/dotnet/dotnet)
 * [source-build](https://github.com/dotnet/source-build)
 * [source-build-reference-packages](https://github.com/dotnet/source-build-reference-packages)
 * [source-build-externals](https://github.com/dotnet/source-build-externals)
