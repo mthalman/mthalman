@@ -24,11 +24,11 @@
 
 #### Source Build
 
-* [installer](https://github.com/dotnet/installer)
-* [dotnet](https://github.com/dotnet/dotnet)
-* [source-build](https://github.com/dotnet/source-build)
-* [source-build-reference-packages](https://github.com/dotnet/source-build-reference-packages)
-* [source-build-externals](https://github.com/dotnet/source-build-externals)
+* [dotnet/installer](https://github.com/dotnet/installer)
+* [dotnet/dotnet](https://github.com/dotnet/dotnet)
+* [dotnet/source-build](https://github.com/dotnet/source-build)
+* [dotnet/source-build-reference-packages](https://github.com/dotnet/source-build-reference-packages)
+* [dotnet/source-build-externals](https://github.com/dotnet/source-build-externals)
 
 #### Docker
 
