@@ -43,5 +43,7 @@
 * [Docker Registry Client](https://github.com/mthalman/DockerRegistryClient)
 * [Docker Creds Provider](https://github.com/mthalman/docker-creds-provider)
 * [Dockerfile Model](https://github.com/mthalman/DockerfileModel)
+* [Docker Bump Action](https://github.com/mthalman/docker-bump-action)
+* [Dockerfile  Spy](https://github.com/mthalman/dockerfile-spy)
 * [GenFx.NET](https://github.com/mthalman/GenFx.NET)
 
