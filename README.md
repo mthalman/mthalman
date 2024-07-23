@@ -45,5 +45,6 @@
 * [Dockerfile Model](https://github.com/mthalman/DockerfileModel)
 * [Docker Bump Action](https://github.com/mthalman/docker-bump-action)
 * [Dockerfile  Spy](https://github.com/mthalman/dockerfile-spy)
+* [NuGetPackageSpy](https://github.com/mthalman/NuGetPackageSpy)
 * [GenFx.NET](https://github.com/mthalman/GenFx.NET)
 
